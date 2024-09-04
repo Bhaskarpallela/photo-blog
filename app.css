@@ -1,0 +1,53 @@
+img{
+    width:400px;
+    height:300px;
+
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+
+    margin-left: 50px;
+
+    margin-right: 20px;
+
+}
+
+nav{
+
+    margin: 10px;
+    font-size: medium;
+
+    padding-bottom: 10px;
+
+    border-bottom: solid 1px;
+
+
+}
+
+body{
+    background-color: None;
+}
+
+h1{
+    font-size: xx-large;
+    margin-left: 10px;
+}
+
+#fixed{
+    position: sticky;
+
+}
+
+button{
+    background-color:green;
+    color: white;
+
+    border-radius: 15px;
+
+    border-left: 15px;
+}
+
+button:hover{
+    background-color: rgb(1, 62, 1);
+    
+}
